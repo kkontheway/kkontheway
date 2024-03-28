@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
----
+
 
 ### :writing_hand: Blog Posts :
 - [My Blog](https://kkontheway.github.io/)

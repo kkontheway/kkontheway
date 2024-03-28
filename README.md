@@ -6,8 +6,9 @@
 Here are some ideas to get you started:
 -->
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/KpJ47gKe6b7v7xQyWj/video" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5nOGk1bm8yNTJpMm1mNjNwZHRnd2VjNjc3ZTdpMTJiOWZseHEzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qXc2onDaFpoHTgvHA/giphy.gif" width="100"/>
 </div>
+
 - 🔭 I’m currently working on Cyber Security
 - 🌱 I’m currently learning Kubernets BlockChain Redteam
 - 💬 Still on the way

@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Cyber Security <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning Kubernets,Web3 Security, Rust
 - 💬 Still on the way
-- And i am looking for a Web3 Security Job Opportunity,if you have Interest ,Please DM me - suchaprettyboi1227@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
